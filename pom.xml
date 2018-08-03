@@ -39,6 +39,12 @@
       <version>7.7.0.Final-redhat-8</version>
       <scope>provided</scope>
     </dependency>
+		<dependency>
+			<groupId>org.jbpm</groupId>
+			<artifactId>jbpm-workitems-rest</artifactId>
+      <version>7.7.0.Final-redhat-8</version>
+			<scope>provided</scope>
+		</dependency>
     <dependency>
       <groupId>org.kie</groupId>
       <artifactId>kie-api</artifactId>
